@@ -1,6 +1,5 @@
 # About me
 
-<-- **NormalTime/NormalTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 My name is Greg Piturro! I'm studying computer science at The University of Rhode Island. I'm planning on finishing my undergrad
 degree and starting grad school in 2026!
 
