@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**NormalTime/NormalTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<-- **NormalTime/NormalTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+My name is Greg Piturro! I'm studying computer science at The University of Rhode Island. I'm planning on finishing my undergrad
+degree and starting grad school in 2026!
 
-Here are some ideas to get you started:
+Here's some more to know about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Some of my hobbies are writing short stories, working out, fencing, and playing video games.
+- 🔭 I’m currently working on a line-following arduino car.
+- 🌱 I’m currently learning about computer graphics; I'm looking into topics such as bezier curves.
+- 🤔 I’m looking for help with finding new flavors of tea.
+- 📫 Email: gregory_piturro@uri.edu
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I trained in karate for 6 years
